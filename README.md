@@ -1,7 +1,7 @@
 --------------------------------------------------------------------
 - 👋 Hi, I’m @tin7
-- 👀 I’m interested in computer science, data science and physics.
-- 🌱 I’m currently learning python for research and field theory
+- 👀 I’m interested in computer science, computational mechanics and physics.
+- 🌱 I’m currently learning Code-Aster for material simulation
 - 📫 How to reach me armoa58@gmail.com
 ---------------------------------------------------------------------
 <!---
